@@ -1,0 +1,110 @@
+[
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 5 1600",
+        "cores": "6",
+        "threads": "12",
+        "base_clock": "3.2GHz",
+        "max_boost_clock": "3.6GHz",
+        "l1_cache": "576KB",
+        "l2_cache": "3MB",
+        "l3_cache": "16MB",
+        "tdp": "65W"
+    },
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 5 1600X",
+        "cores": "6",
+        "threads": "12",
+        "base_clock": "3.6GHz",
+        "max_boost_clock": "4.0GHz",
+        "l1_cache": "576KB",
+        "l2_cache": "3MB",
+        "l3_cache": "16MB",
+        "tdp": "95W"
+    },
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 7 1700",
+        "cores": "8",
+        "threads": "16",
+        "base_clock": "3.0GHz",
+        "max_boost_clock": "3.7GHz",
+        "l1_cache": "768KB",
+        "l2_cache": "4MB",
+        "l3_cache": "16MB",
+        "tdp": "65W"
+    },
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 7 1700X",
+        "cores": "8",
+        "threads": "16",
+        "base_clock": "3.4GHz",
+        "max_boost_clock": "3.8GHz",
+        "l1_cache": "768KB",
+        "l2_cache": "4MB",
+        "l3_cache": "16MB",
+        "tdp": "95W"
+    },
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 7 1800X",
+        "cores": "8",
+        "threads": "16",
+        "base_clock": "3.6GHz",
+        "max_boost_clock": "4.0GHz",
+        "l1_cache": "768KB",
+        "l2_cache": "4MB",
+        "l3_cache": "16MB",
+        "tdp": "95W"
+    },
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 5 2600",
+        "cores": "6",
+        "threads": "12",
+        "base_clock": "3.4GHz",
+        "max_boost_clock": "3.9GHz",
+        "l1_cache": "576KB",
+        "l2_cache": "3MB",
+        "l3_cache": "16MB",
+        "tdp": "65W"
+    },
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 5 2600X",
+        "cores": "6",
+        "threads": "12",
+        "base_clock": "3.6GHz",
+        "max_boost_clock": "4.2GHz",
+        "l1_cache": "576KB",
+        "l2_cache": "3MB",
+        "l3_cache": "16MB",
+        "tdp": "95W"
+    },
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 7 2700",
+        "cores": "8",
+        "threads": "16",
+        "base_clock": "3.2GHz",
+        "max_boost_clock": "4.1GHz",
+        "l1_cache": "768KB",
+        "l2_cache": "4MB",
+        "l3_cache": "16MB",
+        "tdp": "65W"
+    },
+    {
+        "manufacturer": "AMD",
+        "model": "Ryzen 7 2700X",
+        "cores": "8",
+        "threads": "16",
+        "base_clock": "3.7GHz",
+        "max_boost_clock": "4.3GHz",
+        "l1_cache": "768KB",
+        "l2_cache": "4MB",
+        "l3_cache": "16MB",
+        "tdp": "105W"
+    }
+]
