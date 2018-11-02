@@ -9,7 +9,8 @@
         "l1_cache": "576KB",
         "l2_cache": "3MB",
         "l3_cache": "16MB",
-        "tdp": "65W"
+        "tdp": "65W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-5-1600"
     },
     {
         "manufacturer": "AMD",
@@ -21,7 +22,8 @@
         "l1_cache": "576KB",
         "l2_cache": "3MB",
         "l3_cache": "16MB",
-        "tdp": "95W"
+        "tdp": "95W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-5-1600x"
     },
     {
         "manufacturer": "AMD",
@@ -33,7 +35,8 @@
         "l1_cache": "768KB",
         "l2_cache": "4MB",
         "l3_cache": "16MB",
-        "tdp": "65W"
+        "tdp": "65W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-7-1700"
     },
     {
         "manufacturer": "AMD",
@@ -45,7 +48,8 @@
         "l1_cache": "768KB",
         "l2_cache": "4MB",
         "l3_cache": "16MB",
-        "tdp": "95W"
+        "tdp": "95W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-7-1700x"
     },
     {
         "manufacturer": "AMD",
@@ -57,7 +61,8 @@
         "l1_cache": "768KB",
         "l2_cache": "4MB",
         "l3_cache": "16MB",
-        "tdp": "95W"
+        "tdp": "95W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-7-1800x"
     },
     {
         "manufacturer": "AMD",
@@ -69,7 +74,8 @@
         "l1_cache": "576KB",
         "l2_cache": "3MB",
         "l3_cache": "16MB",
-        "tdp": "65W"
+        "tdp": "65W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-5-2600"
     },
     {
         "manufacturer": "AMD",
@@ -81,7 +87,8 @@
         "l1_cache": "576KB",
         "l2_cache": "3MB",
         "l3_cache": "16MB",
-        "tdp": "95W"
+        "tdp": "95W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-5-2600x"
     },
     {
         "manufacturer": "AMD",
@@ -93,7 +100,8 @@
         "l1_cache": "768KB",
         "l2_cache": "4MB",
         "l3_cache": "16MB",
-        "tdp": "65W"
+        "tdp": "65W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-7-2700"
     },
     {
         "manufacturer": "AMD",
@@ -105,6 +113,7 @@
         "l1_cache": "768KB",
         "l2_cache": "4MB",
         "l3_cache": "16MB",
-        "tdp": "105W"
+        "tdp": "105W",
+        "link": "https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x"
     }
 ]
