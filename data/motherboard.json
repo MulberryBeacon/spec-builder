@@ -3,36 +3,42 @@
         "manufacturer": "Asus",
         "model": "Prime X470 Pro",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asus.com/uk/Motherboards/PRIME-X470-PRO/"
     },
     {
         "manufacturer": "Asus",
         "model": "ROG Crosshair VII Hero",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asus.com/uk/Motherboards/ROG-CROSSHAIR-VII-HERO/"
     },
     {
         "manufacturer": "Asus",
         "model": "ROG Crosshair VII Hero (WI-FI)",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asus.com/uk/Motherboards/ROG-CROSSHAIR-VII-HERO-WI-FI/"
     },
     {
         "manufacturer": "Asus",
         "model": "ROG Strix X470-F Gaming",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asus.com/uk/Motherboards/ROG-STRIX-X470-F-GAMING/"
     },
     {
         "manufacturer": "Asus",
         "model": "ROG Strix X470-I Gaming",
         "chipset": "X470",
+        "form_factor": "Mini-ITX",
         "link": "https://www.asus.com/uk/Motherboards/ROG-STRIX-X470-I-GAMING/"
     },
     {
         "manufacturer": "Asus",
         "model": "TUF X470-Plus Gaming",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asus.com/uk/Motherboards/TUF-X470-PLUS-GAMING/"
     },
 
@@ -41,90 +47,105 @@
         "manufacturer": "MSI",
         "model": "X470 Gaming M7 AC",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.msi.com/Motherboard/X470-GAMING-M7-AC"
     },
     {
         "manufacturer": "MSI",
         "model": "X470 Gaming Pro Carbon AC",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.msi.com/Motherboard/X470-GAMING-PRO-CARBON-AC"
     },
     {
         "manufacturer": "MSI",
         "model": "X470 Gaming Pro Carbon",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.msi.com/Motherboard/X470-GAMING-PRO-CARBON"
     },
     {
         "manufacturer": "MSI",
         "model": "X470 Gaming Pro",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.msi.com/Motherboard/X470-GAMING-PRO"
     },
     {
         "manufacturer": "MSI",
         "model": "X470 Gaming Plus",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.msi.com/Motherboard/X470-GAMING-PLUS"
     },
     {
         "manufacturer": "Gigabyte",
         "model": "X470 Aorus Gaming 7 WIFI (rev 1.1)",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.gigabyte.com/uk/Motherboard/X470-AORUS-GAMING-7-WIFI-rev-11#kf"
     },
     {
         "manufacturer": "Gigabyte",
         "model": "X470 Aorus Ultra Gaming",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.gigabyte.com/uk/Motherboard/X470-AORUS-ULTRA-GAMING-rev-10#kf"
     },
     {
         "manufacturer": "Gigabyte",
         "model": "X470 Aorus Gaming 5 WIFI",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.gigabyte.com/uk/Motherboard/X470-AORUS-GAMING-5-WIFI-rev-10#kf"
     },
     {
         "manufacturer": "Gigabyte",
         "model": "X470 Aorus Gaming 7 WIFI (rev 1.0)",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.gigabyte.com/uk/Motherboard/X470-AORUS-GAMING-7-WIFI-rev-10#kf"
     },
     {
         "manufacturer": "ASRock",
         "model": "X470 Taichi Ultimate",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asrock.com/mb/AMD/X470%20Taichi%20Ultimate/index.us.asp"
     },
     {
         "manufacturer": "ASRock",
         "model": "X470 Taichi",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asrock.com/mb/AMD/X470%20Taichi/index.us.asp"
     },
     {
         "manufacturer": "ASRock",
         "model": "X470 Master SLI/ac",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asrock.com/mb/AMD/X470%20Master%20SLIac/index.us.asp"
     },
     {
         "manufacturer": "ASRock",
         "model": "X470 Master SLI",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asrock.com/mb/AMD/X470%20Master%20SLI/index.us.asp"
     },
     {
         "manufacturer": "ASRock",
         "model": "Fatal1ty X470 Gaming K4",
         "chipset": "X470",
+        "form_factor": "ATX",
         "link": "https://www.asrock.com/mb/AMD/Fatal1ty%20X470%20Gaming%20K4/index.us.asp"
     },
     {
         "manufacturer": "ASRock",
         "model": "Fatal1ty X470 Gaming-ITX/ac",
         "chipset": "X470",
+        "form_factor": "Mini-ITX",
         "link": "https://www.asrock.com/mb/AMD/Fatal1ty%20X470%20Gaming-ITXac/index.us.asp"
     }
 ]
