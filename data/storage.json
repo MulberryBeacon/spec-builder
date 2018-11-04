@@ -1,0 +1,56 @@
+[
+    {
+        "manufacturer": "Samsung",
+        "model": "970 EVO",
+        "capacity": "250 GB",
+        "form_factor": "NVMe M.2 2280",
+        "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E250BW/",
+        "link_amazon": "https://smile.amazon.co.uk/gp/product/B07CGGNX7S",
+        "price": "£75.99"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "970 EVO",
+        "capacity": "500 GB",
+        "form_factor": "NVMe M.2 2280",
+        "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E500BW/",
+        "link_amazon": "https://www.amazon.co.uk/gp/product/B07CGGP7SV",
+        "price": "£129.77"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "970 EVO",
+        "capacity": "1 TB",
+        "form_factor": "NVMe M.2 2280",
+        "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E1T0BW/",
+        "link_amazon": "https://www.amazon.co.uk/dp/B07CGJNLBB",
+        "price": "£251.32"
+    },
+    {
+        "manufacturer": "Western Digital",
+        "model": "WD Black",
+        "capacity": "250 GB",
+        "form_factor": "NVMe M.2 2280",
+        "link": "https://www.wdc.com/en-gb/products/internal-ssd/wd-black-nvme-ssd.html#WDS250G2X0C",
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07C9H8MHD",
+        "price": "£76.00"
+    },
+    {
+        "manufacturer": "Western Digital",
+        "model": "WD Black",
+        "capacity": "500 GB",
+        "form_factor": "NVMe M.2 2280",
+        "link": "https://www.wdc.com/en-gb/products/internal-ssd/wd-black-nvme-ssd.html#WDS500G2X0C",
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07BR9FV1C",
+        "price": "£149.09"
+    },
+    {
+        "manufacturer": "Western Digital",
+        "model": "WD Black",
+        "capacity": "1 TB",
+        "form_factor": "NVMe M.2 2280",
+        "link": "https://www.wdc.com/en-gb/products/internal-ssd/wd-black-nvme-ssd.html#WDS100T2X0C",
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07BRCLMTS",
+        "price": "£288.82"
+    }
+]
