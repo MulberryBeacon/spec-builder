@@ -1,0 +1,57 @@
+[
+    {
+        "manufacturer": "Asus",
+        "model": "Cerberus GeForce GTX 1070 Ti 8GB (Advanced Edition)",
+        "link": "https://www.asus.com/uk/Graphics-Cards/ROG-STRIX-GTX1070TI-A8G-GAMING/"
+    },
+    {
+        "manufacturer": "Asus",
+        "model": "Cerberus GeForce GTX 1070 Ti 8GB",
+        "link": "https://www.asus.com/uk/Graphics-Cards/ROG-STRIX-GTX1070TI-8G-GAMING/"
+    },
+    {
+        "manufacturer": "Asus",
+        "model": "ROG Strix GeForce GTX 1070 Ti 8G (Advanced Edition)",
+        "link": "https://www.asus.com/uk/Graphics-Cards/CERBERUS-GTX1070TI-A8G/"
+    },
+    {
+        "manufacturer": "Asus",
+        "model": "ROG Strix GeForce GTX 1070 Ti 8G",
+        "link": "https://www.asus.com/uk/Graphics-Cards/CERBERUS-GTX1070TI-8G/"
+    },
+    {
+        "manufacturer": "Gigabyte",
+        "model": "AORUS GeForce GTX 1070 Ti 8G",
+        "link": "https://www.gigabyte.com/uk/Graphics-Card/GV-N107TAORUS-8GD#kf"
+    },
+    {
+        "manufacturer": "Gigabyte",
+        "model": "GeForce GTX 1070 Ti Gaming 8G",
+        "link": "https://www.gigabyte.com/uk/Graphics-Card/GV-N107TGAMING-8GD#kf"
+    },
+    {
+        "manufacturer": "Gigabyte",
+        "model": "GeForce GTX 1070 Ti WINDFORCE 8G",
+        "link": "https://www.gigabyte.com/uk/Graphics-Card/GV-N107TWF2-8GD#kf"
+    },
+    {
+        "manufacturer": "MSI",
+        "model": "GeForce GTX 1070 Ti Gaming 8G",
+        "link": "https://www.msi.com/Graphics-card/GeForce-GTX-1070-Ti-GAMING-8G"
+    },
+    {
+        "manufacturer": "MSI",
+        "model": "GeForce GTX 1070 Ti Titanium 8G",
+        "link": "https://www.msi.com/Graphics-card/GeForce-GTX-1070-Ti-Titanium-8G"
+    },
+    {
+        "manufacturer": "MSI",
+        "model": "GeForce GTX 1070 Ti Duke 8G",
+        "link": "https://www.msi.com/Graphics-card/GeForce-GTX-1070-Ti-DUKE-8G"
+    },
+    {
+        "manufacturer": "MSI",
+        "model": "GeForce GTX 1070 Ti Armor 8G",
+        "link": "https://www.msi.com/Graphics-card/GeForce-GTX-1070-Ti-ARMOR-8G"
+    }
+]
