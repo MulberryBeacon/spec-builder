@@ -2,20 +2,11 @@
     {
         "manufacturer": "Samsung",
         "model": "970 EVO",
-        "capacity": "250 GB",
-        "form_factor": "NVMe M.2 2280",
-        "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E250BW/",
-        "link_amazon": "https://smile.amazon.co.uk/gp/product/B07CGGNX7S",
-        "price": "£75.99"
-    },
-    {
-        "manufacturer": "Samsung",
-        "model": "970 EVO",
         "capacity": "500 GB",
         "form_factor": "NVMe M.2 2280",
         "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E500BW/",
         "link_amazon": "https://www.amazon.co.uk/gp/product/B07CGGP7SV",
-        "price": "£129.77"
+        "price": "£119.98"
     },
     {
         "manufacturer": "Samsung",
@@ -24,7 +15,43 @@
         "form_factor": "NVMe M.2 2280",
         "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E1T0BW/",
         "link_amazon": "https://www.amazon.co.uk/dp/B07CGJNLBB",
-        "price": "£251.32"
+        "price": "£248.01"
+    },
+    {
+        "manufacturer": "Samsung",
+        "model": "970 EVO",
+        "capacity": "2 TB",
+        "form_factor": "NVMe M.2 2280",
+        "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E2T0BW/",
+        "link_amazon": "https://smile.amazon.co.uk/gp/product/B07CGGNX7S",
+        "price": "£508.08"
+    },
+    {
+        "manufacturer": "Western Digital",
+        "model": "WD Blue 3D NAND SATA SSD",
+        "capacity": "500 GB",
+        "form_factor": "M.2 2280",
+        "link": "https://www.wd.com/en-gb/products/internal-ssd/wd-blue-3d-nand-sata-ssd.html#WDS500G2B0B",
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07C9H8MHD",
+        "price": "£105.00"
+    },
+    {
+        "manufacturer": "Western Digital",
+        "model": "WD Blue 3D NAND SATA SSD",
+        "capacity": "1 TB",
+        "form_factor": "M.2 2280",
+        "link": "https://www.wd.com/en-gb/products/internal-ssd/wd-blue-3d-nand-sata-ssd.html#WDS100T2B0B",
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07BR9FV1C",
+        "price": "£189.00"
+    },
+    {
+        "manufacturer": "Western Digital",
+        "model": "WD Blue 3D NAND SATA SSD",
+        "capacity": "1 TB",
+        "form_factor": "M.2 2280",
+        "link": "https://www.wd.com/en-gb/products/internal-ssd/wd-blue-3d-nand-sata-ssd.html#WDS200T2B0B   ",
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07BRCLMTS",
+        "price": "£370.00"
     },
     {
         "manufacturer": "Western Digital",

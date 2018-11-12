@@ -7,10 +7,6 @@ import json
 
 from component_type import ComponentType
 
-def choose_component(component: ComponentType, components: list):
-    value = choice(components)
-    return 'nothing yet!'
-
 
 def load_file(filename: str) -> list:
     """
@@ -32,7 +28,31 @@ def load_file(filename: str) -> list:
     return data
 
 
+def load_data():
+    """
+    """
+    components = []
+    spec_lists = {}
+
+    for ct in ComponentType:
+        component = dict(ct.value)
+        components.append({
+            component['name']: load_file(component['file'])
+        })
+
+    #print(components)
+    #for x in components:
+    #    spec_lists[]
+
+
+
+def choose_component(component: ComponentType):
+    #value = choice(components)
+    return 'nothing yet!'
+
+
 if __name__ == '__main__':
-    cpu = dict(ComponentType.CPU.value)
-    test = load_file(cpu['file'])
-    print(test)
+    #cpu = dict(ComponentType.CPU.value)
+    #test = load_file(cpu['file'])
+    #print(test)
+    load_data()
