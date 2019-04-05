@@ -3,6 +3,10 @@
 from enum import Enum
 
 class ComponentType(Enum):
+    #CASE = { 
+    #    'name': 'Case',
+    #    'file': 'case.json'
+    #} 
     CPU = {
         'name': 'Processor',
         'file': 'cpu.json'
@@ -15,19 +19,15 @@ class ComponentType(Enum):
         'name': 'Storage',
         'file': 'storage.json'
     }
-    PSU = {
-        'name': 'Power supply',
-        'file': 'psu.json'
-    }
-    RAM = {
-        'name': 'Memory',
-        'file': 'memory.json'
-    }
+    #PSU = {
+    #    'name': 'Power supply',
+    #    'file': 'psu.json'
+    #}
+    #RAM = {
+    #    'name': 'Memory',
+    #    'file': 'memory.json'
+    #}
     MOTHERBOARD = {
         'name': 'Motherboard',
         'file': 'motherboard.json'
-    }
-    CASE = {
-        'name': 'Case',
-        'file': 'case.json'
     }

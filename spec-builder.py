@@ -1,9 +1,10 @@
-# -*- coding: utf8 -*-
-
-from random import choice
-from marshmallow import Schema, fields, pprint
+# -*- coding: utf-8 -*-
 
 import json
+from random import choice
+import itertools
+
+from marshmallow import Schema, fields, pprint
 
 from component_type import ComponentType
 
@@ -14,6 +15,7 @@ def load_file(filename: str) -> list:
 
     :param filename:
         The file name with a relative path
+
     :return:
         The list of entries in the data file
     """
@@ -23,7 +25,7 @@ def load_file(filename: str) -> list:
         with open('data/' + filename) as fp:
             data = json.load(fp)
     except FileNotFoundError:
-        print('ups...')
+        print('File "{}" could not be found.'.format(filename))
 
     return data
 
@@ -32,27 +34,19 @@ def load_data():
     """
     """
     components = []
-    spec_lists = {}
 
     for ct in ComponentType:
         component = dict(ct.value)
-        components.append({
-            component['name']: load_file(component['file'])
-        })
+        #components.append({
+        #    component['name']: load_file(component['file'])
+        #})
+        components.append(load_file(component['file']))
 
-    #print(components)
-    #for x in components:
-    #    spec_lists[]
+    result = list(itertools.product(*components))
 
-
-
-def choose_component(component: ComponentType):
-    #value = choice(components)
-    return 'nothing yet!'
+    for idx, subset in enumerate(result):
+        print(subset)
 
 
 if __name__ == '__main__':
-    #cpu = dict(ComponentType.CPU.value)
-    #test = load_file(cpu['file'])
-    #print(test)
     load_data()
