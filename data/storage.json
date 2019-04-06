@@ -5,8 +5,7 @@
         "capacity": "500 GB",
         "form_factor": "NVMe M.2 2280",
         "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E500BW/",
-        "link_amazon": "https://www.amazon.co.uk/gp/product/B07CGGP7SV",
-        "price": "£119.98"
+        "link_amazon": "https://www.amazon.co.uk/gp/product/B07CGGP7SV"
     },
     {
         "manufacturer": "Samsung",
@@ -14,8 +13,7 @@
         "capacity": "1 TB",
         "form_factor": "NVMe M.2 2280",
         "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E1T0BW/",
-        "link_amazon": "https://www.amazon.co.uk/dp/B07CGJNLBB",
-        "price": "£248.01"
+        "link_amazon": "https://www.amazon.co.uk/dp/B07CGJNLBB"
     },
     {
         "manufacturer": "Samsung",
@@ -23,8 +21,7 @@
         "capacity": "2 TB",
         "form_factor": "NVMe M.2 2280",
         "link": "https://www.samsung.com/uk/memory-storage/970-evo-nvme-m2-ssd/MZ-V7E2T0BW/",
-        "link_amazon": "https://smile.amazon.co.uk/gp/product/B07CGGNX7S",
-        "price": "£508.08"
+        "link_amazon": "https://smile.amazon.co.uk/gp/product/B07CGGNX7S"
     },
     {
         "manufacturer": "Western Digital",
@@ -32,8 +29,7 @@
         "capacity": "500 GB",
         "form_factor": "M.2 2280",
         "link": "https://www.wd.com/en-gb/products/internal-ssd/wd-blue-3d-nand-sata-ssd.html#WDS500G2B0B",
-        "link_amazon": "https://smile.amazon.co.uk/dp/B07C9H8MHD",
-        "price": "£105.00"
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07C9H8MHD"
     },
     {
         "manufacturer": "Western Digital",
@@ -41,8 +37,7 @@
         "capacity": "1 TB",
         "form_factor": "M.2 2280",
         "link": "https://www.wd.com/en-gb/products/internal-ssd/wd-blue-3d-nand-sata-ssd.html#WDS100T2B0B",
-        "link_amazon": "https://smile.amazon.co.uk/dp/B07BR9FV1C",
-        "price": "£189.00"
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07BR9FV1C"
     },
     {
         "manufacturer": "Western Digital",
@@ -50,8 +45,7 @@
         "capacity": "1 TB",
         "form_factor": "M.2 2280",
         "link": "https://www.wd.com/en-gb/products/internal-ssd/wd-blue-3d-nand-sata-ssd.html#WDS200T2B0B   ",
-        "link_amazon": "https://smile.amazon.co.uk/dp/B07BRCLMTS",
-        "price": "£370.00"
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07BRCLMTS"
     },
     {
         "manufacturer": "Western Digital",
@@ -59,8 +53,7 @@
         "capacity": "250 GB",
         "form_factor": "NVMe M.2 2280",
         "link": "https://www.wdc.com/en-gb/products/internal-ssd/wd-black-nvme-ssd.html#WDS250G2X0C",
-        "link_amazon": "https://smile.amazon.co.uk/dp/B07C9H8MHD",
-        "price": "£76.00"
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07C9H8MHD"
     },
     {
         "manufacturer": "Western Digital",
@@ -68,8 +61,7 @@
         "capacity": "500 GB",
         "form_factor": "NVMe M.2 2280",
         "link": "https://www.wdc.com/en-gb/products/internal-ssd/wd-black-nvme-ssd.html#WDS500G2X0C",
-        "link_amazon": "https://smile.amazon.co.uk/dp/B07BR9FV1C",
-        "price": "£149.09"
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07BR9FV1C"
     },
     {
         "manufacturer": "Western Digital",
@@ -77,7 +69,6 @@
         "capacity": "1 TB",
         "form_factor": "NVMe M.2 2280",
         "link": "https://www.wdc.com/en-gb/products/internal-ssd/wd-black-nvme-ssd.html#WDS100T2X0C",
-        "link_amazon": "https://smile.amazon.co.uk/dp/B07BRCLMTS",
-        "price": "£288.82"
+        "link_amazon": "https://smile.amazon.co.uk/dp/B07BRCLMTS"
     }
 ]
